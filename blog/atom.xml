@@ -8,17 +8,11 @@
     <subtitle>Coming soon Blog</subtitle>
     <icon>https://schersmin.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://schersmin.github.io/blog/first-blog-post</id>
-        <link href="https://schersmin.github.io/blog/first-blog-post"/>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://schersmin.github.io/blog/2023/03/09/test</id>
+        <link href="https://schersmin.github.io/blog/2023/03/09/test"/>
         <updated>2023-03-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[这是一个测试页面]]></summary>
         <content type="html"><![CDATA[<p>这是一个测试页面</p>]]></content>
-        <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
-        </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
     </entry>
 </feed>
